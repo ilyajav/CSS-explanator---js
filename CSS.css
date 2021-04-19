@@ -1,0 +1,35 @@
+#form1{top: 0; left: 0; background: #1e88e5; padding-left: 100px}
+#form2{top: 0; left: 50%; background: #e1e2e1; padding-left: 100px}
+#form3{top: 50%; left: 0; background: #F5F5F5; padding-left: 100px}
+#form4{top: 50%; left: 50%; background: #005cb2; padding-left: 100px}
+.mainForm{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+#border{color: #005cb2 ; font-size: 150%; margin-left: 230px; margin-top: 20px}
+#photo1{margin: 0 0 50px 5px; border: 8px double #e1e2e1; padding: 6px}
+#photo2{border: 8px dotted #e1e2e1; margin: 0 0 40px 20px; padding: 6px; position: fixed}
+ol.list{list-style-type: none}
+#sh {color: #005cb2; font-size: 200%; padding-left: 250px}
+#l1 {text-shadow: 0 5px 3px #005cb2 ; font-size: 40px; padding-left: 80px}
+#l2 {text-shadow: 0 5px 3px #005cb2, -3px 6px 5px salmon;
+    font-size: 40px; padding-left: 80px; padding-top: 10px}
+#op{color: #F5F5F5; font-size: 190%; padding-left: 260px; margin-bottom: 30px;}
+#fire{width: 30%; height: 55%; opacity: 1; padding-left: 200px; margin: 10px;}
+.bts4{color: #005cb2; margin-left: 40px}
+#bt25{width: 80px;}
+#bt50{width: 80px;}
+#bt75{width: 80px;}
+#bt100{width: 80px;}
+#ff{color: #005cb2; font-size: 200%; padding-left: 250px}
+#btnSh1{background-color: #1e88e5; color: #e1e2e1}
+#btnSh2{background-color: #1e88e5; color: #e1e2e1}
+#btsSH{margin-left: 180px;}
+#text{color: #005cb2; margin-top: 40px; font-size: 35px; padding-left: 50px}
+#btsF{padding-left: 130px}
+#btF1{background-color: #1e88e5; color: #e1e2e1;}
+#btF2{background-color: #1e88e5; color: #e1e2e1}
+#btF3{background-color: #1e88e5; color: #e1e2e1}
+#btF4{background-color: #1e88e5; color: #e1e2e1}
+
